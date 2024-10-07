@@ -1,1 +1,3 @@
 # EDOPRO-Custom-Cards
+Open source distribution for personal create-a-card creations. Please enjoy these cards.
+-README to be developed...
